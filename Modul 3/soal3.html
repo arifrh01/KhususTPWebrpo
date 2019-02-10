@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Soal 3</title>
+</head>
+<body onload="popup_1301164023()">
+	<p id="hasil"></p>
+	<script type="text/javascript">
+		function popup_1301164023() {
+			var konfirmasiDiri = confirm("Apakah Anda Arif? ");
+			var a = "";
+			if(konfirmasiDiri == true){
+				a = ("Selamat Datang Arif :)");
+			}else{
+				a = ("Kamu Bukan Arif :(");
+			}
+			document.getElementById("hasil") = alert(a);
+		}
+	</script>
+</body>
+</html>
