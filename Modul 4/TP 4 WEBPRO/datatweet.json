@@ -1,0 +1,14 @@
+{
+	"text": "blablabla",
+	"timestamp": "Thu Apr 06 15:24:15 2017",
+	"favourite_count": "100",
+	"retweet_count": "200",
+	"user": [
+		{
+			"screen_name": "BB",
+			"name": "Bebe",
+			"followers_count": "150",
+			"url_image": "https://pbs.twimg.com/profile_images/649804760992759812/k4ZTPZJP_400x400.jpg"
+		}
+	]
+}
